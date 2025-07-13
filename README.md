@@ -1,7 +1,7 @@
 # rat-toad
 A viral TikTok trend once classified people as either "rat" or "frog" in appearance. This is a classifier to do so systematically, using ResNet18.
 
-[Plot](https://github.com/Certaingemstone/rat-toad/blob/main/rat-toad.webp?raw=true)
+[plot](https://github.com/Certaingemstone/rat-toad/blob/main/rat-toad.png?raw=true)
 
 # Dependencies
 - Pytorch
