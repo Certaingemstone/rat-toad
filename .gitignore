@@ -2,6 +2,7 @@
 *.jpg
 *.jpeg
 *.png
+!rat-toad.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
