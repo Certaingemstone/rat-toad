@@ -1,6 +1,8 @@
 # rat-toad
 A viral TikTok trend once classified people as either "rat" or "frog" in appearance. This is a classifier to do so systematically, using ResNet18.
 
+DISCLAIMER: This is by no means a scientific test. It is purely the result of a coworker's meme. Quality and relevance of training data was not verified, and there was no attempt at feature engineering to accurately identify things humans will recognize as rat or frog in facial features. Agreement with human judgment is therefore not guaranteed.
+
 ![plot](https://github.com/Certaingemstone/rat-toad/blob/main/rat-toad.png?raw=true)
 
 # Dependencies
